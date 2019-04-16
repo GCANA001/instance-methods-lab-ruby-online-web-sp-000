@@ -6,4 +6,8 @@ class Dog
   def sit 
     puts "The Dog is sitting"
   end
+  
+  def talk
+    puts "Hello World!"
+  end
 end
