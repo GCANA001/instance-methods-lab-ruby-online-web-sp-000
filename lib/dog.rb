@@ -1,6 +1,5 @@
 class Dog
 
-dog.new  
   
   def bark
     puts "Woof!"
